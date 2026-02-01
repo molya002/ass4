@@ -9,21 +9,22 @@ The system works with Animals, Zoos, and Zookeepers using PostgreSQL.
 
 ## Project Structure
 
-src/
- ├── connection/
- │    └── DBConnection.java
- ├── model/
- │    ├── Animal.java
- │    ├── Zoo.java
- │    └── Zookeeper.java
- ├── repository/
- │    ├── AnimalRepository.java
- │    ├── ZooRepository.java
- │    └── ZookeeperRepository.java
- ├── service/
- │    ├── AnimalService.java
- │    └── ZookeeperService.java
- └── Main.java
+src
+|-- connection
+|   `-- DBConnection.java
+|-- model
+|   |-- Animal.java
+|   |-- Zoo.java
+|   `-- Zookeeper.java
+|-- repository
+|   |-- AnimalRepository.java
+|   |-- ZooRepository.java
+|   `-- ZookeeperRepository.java
+|-- service
+|   |-- AnimalService.java
+|   `-- ZookeeperService.java
+`-- Main.java
+
 
 ## Database
 
@@ -98,3 +99,4 @@ It can be used as a university assignment or portfolio project.
 
 ## Author
 Student project for learning Java and PostgreSQL integration.
+
