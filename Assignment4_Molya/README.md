@@ -99,6 +99,7 @@ It helps practice JDBC, PostgreSQL, and layered architecture in Java.
 It can be used as a university assignment or portfolio project.
 
 ## Author
-Student project for learning Java and PostgreSQL integration.
+MOLDIR's project for learning Java and PostgreSQL integration.
+
 
 
